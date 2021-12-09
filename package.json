@@ -1,0 +1,26 @@
+{
+  "name": "org-watch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "csv": "^6.0.4",
+    "nodegit": "^0.27.0",
+    "wikibase-edit": "^4.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toban/org-watch.git"
+  },
+  "author": "toban",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/toban/org-watch/issues"
+  },
+  "homepage": "https://github.com/toban/org-watch#readme"
+}
