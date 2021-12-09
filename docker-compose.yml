@@ -1,0 +1,11 @@
+
+version: '3.7'
+services:
+  askgit:
+    build: 
+      context: . 
+    volumes:
+      - .:/org-watch/
+    environment:
+        REPO:
+        ORG_NAME:

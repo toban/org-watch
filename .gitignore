@@ -1,0 +1,7 @@
+repos/**
+node_modules
+out.csv
+output.csv
+package-lock.json
+.env
+org/
